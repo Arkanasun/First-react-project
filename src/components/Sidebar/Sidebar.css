@@ -1,0 +1,15 @@
+.bg-body-tertiary{
+  background-color: #282c34;
+  display: flex;
+  position: fixed;
+  margin-bottom: 100px;
+  margin-left: 40px;
+}
+.side-list{
+    text-decoration: none;
+    color: white;
+}
+
+#collapsible-nav-dropdown{
+    color: white;
+}
