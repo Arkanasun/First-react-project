@@ -7,10 +7,10 @@ import Central from "./components/Central/Central";
 function App() {
   return (
     <div className="App">
-      <img src={logo} className="App-logo" alt="logo" />
-      <Header className="header"></Header>
-      <Central></Central>
-    <CollapsibleExample className="Sidebar"></CollapsibleExample>
+      <img src={logo} className="App-logo" alt="logo"/>
+      <Header className="header"/>
+      <Central/>
+    <CollapsibleExample className="Sidebar"/>
     </div>
   );
 }
